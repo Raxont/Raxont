@@ -24,10 +24,6 @@
 <p>🤖 Believer in the power of AI-assisted development to deliver clean, efficient, and fast code.</p>
 <p>🚀 Team player who thrives in agile environments, continuously building real-world projects and learning modern stacks.</p>
 
-  
-## 🔥 Contribution Streak
-
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Raxont's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Raxont&theme=monokai-metallian&hide_border=true"/>
 
 ## 📊 GitHub Statistics
   
@@ -81,5 +77,5 @@
 </p>
 
 <p align="right">
-  <img src="https://profile-counter.glitch.me/Raxont/count.svg" alt="Visitor Count">
+  <img src="https://komarev.com/ghpvc/?username=Raxont&color=blue&style=flat-square" alt="Visitor Count" />
 </p>
